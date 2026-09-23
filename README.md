@@ -1,8 +1,19 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=900&color=C9D1D9&center=true&vCenter=true&width=650&lines=Hey,+eu+sou+Hiro;Criador+do+ecossistema+Netwave" alt="Typing SVG" />
+<table>
+<tr>
+<td align="center" valign="middle" width="200">
+  <img src="assets/yuna-welcome.png" alt="Yuna — mascote Netwave" width="180" />
+</td>
+<td align="left" valign="middle">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=900&color=C9D1D9&left=true&vCenter=true&width=520&lines=Hey,+eu+sou+Hiro;Criador+do+ecossistema+Netwave" alt="Typing SVG" />
 
 **Infrastructure · Software · Community** — tudo sob uma identidade: o Netwave ID.
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -113,6 +124,8 @@ Stack moderna, arquitetura limpa e um assistente de IA (**Yuna**) no fluxo desde
 ## 💜 Projeto favorito
 
 <div align="center">
+
+<img src="assets/yuna-logo.png" alt="Yuna logo" width="140" />
 
 ### ✦ Yuna ✦
 
