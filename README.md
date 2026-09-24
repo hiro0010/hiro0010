@@ -78,11 +78,15 @@ Stack moderna, arquitetura limpa e um assistente de IA (**Yuna**) no fluxo desde
 **App de controle desktop** — Electron + React + TypeScript.
 <sub>Painel, plugins, temas, OAuth e Services com entitlements</sub>
 
+<img src="assets/axiom-painel.png" alt="Painel Axiom" width="100%" />
+
 <br/>
 
-### 🌐 Site Netwave
+### 🌐 [Site Netwave](https://netwave.cloud)
 **Vitrine oficial** — design premium, store, status e auth.
 <sub>HTML/CSS/JS · 14 páginas · Netwave ID</sub>
+
+<img src="assets/site-netwave.png" alt="Site Netwave" width="100%" />
 
 <br/>
 
