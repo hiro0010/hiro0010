@@ -53,6 +53,7 @@ Stack moderna, arquitetura limpa e um assistente de IA (**Yuna**) no fluxo desde
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=flat-square&logo=assemblyscript&logoColor=white)
 
 </td>
 </tr>
@@ -118,6 +119,12 @@ Stack moderna, arquitetura limpa e um assistente de IA (**Yuna**) no fluxo desde
 ### 🤖 Axiom Bot
 **Bot Discord oficial** — Node + TS + discord.js v14.
 <sub>Prefixo `/` · comandos do ecossistema</sub>
+
+<br/>
+
+### 💚 Vitalis
+**Projeto Vitalis** — em desenvolvimento.
+<sub>Detalhes em breve</sub>
 
 </td>
 </tr>
