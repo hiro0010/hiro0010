@@ -1,139 +1,117 @@
 <div align="center">
 
-<table>
-<tr>
-<td align="center" valign="middle" width="200">
-  <img src="assets/yuna-welcome.png" alt="Yuna — mascote Netwave" width="180" />
-</td>
-<td align="left" valign="middle">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=900&color=C9D1D9&left=true&vCenter=true&width=520&lines=Hey,+eu+sou+Hiro;Criador+do+ecossistema+Netwave" alt="Typing SVG" />
-
-**Infrastructure · Software · Community** — tudo sob uma identidade: o Netwave ID.
-
-</td>
-</tr>
-</table>
+<img src="assets/yuna-welcome.png" alt="Yuna" width="150" />
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=hiro0010&color=00A3FF&style=for-the-badge)](https://github.com/hiro0010)
-[![Followers](https://img.shields.io/github/followers/hiro0010?style=for-the-badge&logo=github&label=Follow&color=181717)](https://github.com/hiro0010?tab=followers)
-[![Bio](https://img.shields.io/badge/bio-Netwave%20%C2%B7%20Yuna-E040FB?style=for-the-badge)](https://github.com/hiro0010)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1200&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=600&lines=Oi,+eu+sou+Hiro;Criador+do+Netwave" alt="Hiro" />
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=hiro0010&color=FFFFFF&style=for-the-badge&background=0D1117)](https://github.com/hiro0010)
+[![Followers](https://img.shields.io/github/followers/hiro0010?style=for-the-badge&logo=github&logoColor=white&color=FFFFFF&background=0D1117)](https://github.com/hiro0010?tab=followers)
+[![Netwave](https://img.shields.io/badge/Netwave-netwave.cloud-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=white&background=0D1117)](https://netwave.cloud)
 
 </div>
 
 ---
 
-## 🧭 Visão geral
+## Sobre
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-### Quem sou
-Criador do **Netwave** — raiz de um conjunto de projetos com a mesma visão: plataformas de controle, clients de performance, proteção e engines proprietárias.
+**Infrastructure · Software · Security**
 
-### Como trabalho
-Stack moderna, arquitetura limpa e um assistente de IA (**Yuna**) no fluxo desde o dia a dia até orquestração de segurança.
+</div>
 
-</td>
-<td width="50%">
+Crio projetos de infraestrutura, software e segurança sob a marca **Netwave** — plataformas de controle, clients de performance, proteção e engines proprietárias.
 
-### Stack principal
-<br/>
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-525252?style=flat-square&logo=assemblyscript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=mysql&logoColor=white)
-
-</td>
-</tr>
-</table>
+Meu dia a dia roda num **CachyOS** próprio, com stack moderna, arquitetura limpa e uma assistente de IA (**Yuna**) no fluxo, do desenvolvimento à orquestração de segurança.
 
 ---
 
-## 🛠️ Projetos feitos
-
-> Ecossistema **Netwave** — cada componente com código, arquitetura e ciclo próprios.
+## Projetos
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🌊 Netwave
-**Raiz do ecossistema** — infra, plataformas e identidade central (**Netwave ID**).
-<sub>Visão · nomenclatura · estrutura oficial</sub>
+
+Marca principal — identidade visual, nomenclatura e a base que sustenta todos os projetos abaixo.
+
+<sub>Identidade · Netwave ID · infra</sub>
 
 <br/>
 
 ### ⚡ Axiom
-**App de controle desktop** — Electron + React + TypeScript.
-<sub>Painel, plugins, temas, OAuth e Services com entitlements</sub>
 
-<img src="assets/axiom-painel.png" alt="Painel Axiom" width="100%" />
+**App de controle desktop** — Electron + React + TypeScript.
+
+<sub>Painel, plugins, temas, OAuth e services com entitlements</sub>
+
+<img src="assets/axiom-painel.png" alt="Axiom" width="100%" />
 
 <br/>
 
 ### 🌐 [Site Netwave](https://netwave.cloud)
-**Vitrine oficial** — design premium, store, status e auth.
-<sub>HTML/CSS/JS · 14 páginas · Netwave ID</sub>
+
+**Vitrine oficial** — design, store, status e autenticação.
+
+<sub>HTML · CSS · JS · 14 páginas</sub>
 
 <img src="assets/site-netwave.png" alt="Site Netwave" width="100%" />
-
-<br/>
-
-### 💻 NetwaveOS
-**Desktop Linux próprio** — base CachyOS / Arch.
-<sub>ISO, shell, themes, update — feito para o ecossistema</sub>
 
 </td>
 <td width="50%" valign="top">
 
+### 💚 Vitalis
+
+**Plataforma de resiliência digital** — mapeie sua infraestrutura, detecte falhas e mantenha a operação em pé.
+
+<sub>Observabilidade · detecção · operação contínua</sub>
+
+<img src="assets/vitalis.png" alt="Vitalis" width="100%" />
+
+<br/>
+
+### 💻 NetwaveOS
+
+**Desktop Linux próprio** — base CachyOS / Arch.
+
+<sub>ISO, shell, themes e update</sub>
+
+<br/>
+
 ### 🔧 AxionEngine
+
 **Motor nativo** — C++20 / N-API para Windows.
-<sub>Telemetria usermode + suite de otimização de hardware</sub>
+
+<sub>Telemetria usermode e otimização de hardware</sub>
 
 <br/>
 
 ### 🛡️ Mochi-AC
+
 **Anti-cheat Minecraft** — Bukkit / Paper.
-<sub>Detecta speed, timer e cheats de movimento</sub>
+
+<sub>Detecção de speed, timer e cheats de movimento</sub>
 
 <br/>
 
 ### ⚔️ NYX Client
-**Mod Fabric PvP** — foco em performance.
+
+**Mod Fabric PvP** — focado em performance.
+
 <sub>Client competitivo para Minecraft</sub>
 
 <br/>
 
 ### 🤖 Axiom Bot
-**Bot Discord oficial** — Node + TS + discord.js v14.
-<sub>Prefixo `/` · comandos do ecossistema</sub>
 
-<br/>
+**Bot de Discord** — Node + TypeScript + discord.js v14.
 
-### 💚 Vitalis
-**Plataforma de resiliência digital** — entenda sua infraestrutura, detecte falhas e mantenha sua operação funcionando.
-<sub>Infraestrutura sob controle · detecção de falhas · operação contínua</sub>
-
-<img src="assets/vitalis.png" alt="Vitalis" width="100%" />
+<sub>Prefixo <code>/</code> · comandos</sub>
 
 </td>
 </tr>
@@ -141,56 +119,72 @@ Stack moderna, arquitetura limpa e um assistente de IA (**Yuna**) no fluxo desde
 
 ---
 
-## 💜 Projeto favorito
+## Stack
 
 <div align="center">
 
-<img src="assets/yuna-logo.png" alt="Yuna logo" width="140" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/Assembly-525252?style=flat-square&logo=assemblyscript&logoColor=white" alt="Assembly" />
+<img src="https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/CachyOS-1793D1?style=flat-square&logo=archlinux&logoColor=white" alt="CachyOS" />
+<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+
+</div>
+
+---
+
+## Yuna
+
+<div align="center">
+
+<img src="assets/yuna-logo.png" alt="Yuna" width="120" />
 
 ### ✦ Yuna ✦
 
-<br/>
-
-**Assistente pessoal e parceira de tecnologia** — mais do que um bot.
+**Assistente pessoal e parceira de tecnologia**
 
 <br/>
 
-![CachyOS](https://img.shields.io/badge/CachyOS-Arch%20based-1793D1?style=flat-square&logo=archlinux&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Memory-Vault%20Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
-![AI Agent](https://img.shields.io/badge/Type-Autonomous%20Agent-E040FB?style=flat-square&logo=openai&logoColor=white)
-![Security](https://img.shields.io/badge/Role-Security%20Orchestrator-00A3FF?style=flat-square&logo=hackaday&logoColor=white)
-
-<br/>
-
-Rodando no meu **CachyOS**, com **identidade própria** e **memória persistente**.
-
-Ela consulta, aprende e guarda o que importa — projetos, decisões, preferências —
+Roda no meu CachyOS, com identidade própria e memória persistente.
+Consulta, aprende e guarda o que importa — projetos, decisões, preferências —
 entre sessões. Orquestra ferramentas de segurança, ajuda no dia a dia
-e conversa como uma parceira de verdade.
+e conversa como parceira de verdade.
 
 <br/>
 
-```
-┌─────────────────────────────────────────────┐
-│  Yuna · agent · CachyOS · Vault · pentest  │
-└─────────────────────────────────────────────┘
-```
-
-<br/>
-
-*"Ela não substitui o código — ela dá vida ao sistema."*
+<img src="https://img.shields.io/badge/Agent-Autonomous-FFFFFF?style=flat-square&logo=openai&logoColor=white&background=0D1117" alt="Agent" />
+<img src="https://img.shields.io/badge/Memory-Persistent%20Vault-FFFFFF?style=flat-square&logo=obsidian&logoColor=white&background=0D1117" alt="Memory" />
+<img src="https://img.shields.io/badge/Role-Security%20Orchestration-FFFFFF?style=flat-square&logo=hackaday&logoColor=white&background=0D1117" alt="Security" />
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## Stats
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=hiro0010&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=00A3FF&icon_color=00A3FF&text_color=C9D1D9" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hiro0010&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF" alt="Stats" />
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiro0010&layout=compact&hide_border=true&bg_color=0d1117&title_color=00A3FF&text_color=C9D1D9" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiro0010&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF" alt="Linguagens" />
 
 </div>
 
@@ -198,16 +192,11 @@ e conversa como uma parceira de verdade.
 
 <div align="center">
 
-### 🔗 Onde me achar
-
-[![GitHub](https://img.shields.io/badge/GitHub-hiro0010-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hiro0010)
-[![Netwave](https://img.shields.io/badge/Netwave-Ecosystem-00A3FF?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/hiro0010)
-[![Yuna](https://img.shields.io/badge/Yuna-Assistente-E040FB?style=for-the-badge&logo=wechat&logoColor=white)](https://github.com/hiro0010)
+[![GitHub](https://img.shields.io/badge/GitHub-hiro0010-FFFFFF?style=for-the-badge&logo=github&logoColor=white&background=0D1117)](https://github.com/hiro0010)
+[![Netwave](https://img.shields.io/badge/Site-netwave.cloud-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=white&background=0D1117)](https://netwave.cloud)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00A3FF,100:7C3AED&height=80&section=footer" alt="wave" />
-
-*"Construído para durar."* · **© Hiro — Netwave**
+<sub>© Hiro — Netwave</sub>
 
 </div>
