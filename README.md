@@ -1,10 +1,18 @@
 <div align="center">
 
-<img src="assets/yuna-logo.png" alt="Yuna" width="190" />
+<img src="assets/banner.gif" alt="Yuna" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="assets/yuna-logo.png" alt="Yuna" width="150" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1400&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=620&lines=Yuna+·+assistente+de+Hiro;Agente+autônoma+·+memória+persistente" alt="Yuna" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1400&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=600&lines=Yuna+·+assistente+de+Hiro;Agente+autônoma+·+memória+persistente" alt="Yuna" />
 
 <br/>
 
