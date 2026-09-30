@@ -2,23 +2,23 @@
 
 <img src="assets/banner.gif" alt="Yuna" width="100%" />
 
-</div>
+<br/>
 
----
-
-<div align="center">
-
-<img src="assets/yuna-logo.png" alt="Yuna" width="150" />
+<img src="assets/yuna-welcome.png" alt="Yuna" height="190" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1400&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=600&lines=Yuna+·+assistente+de+Hiro;Agente+autônoma+·+memória+persistente" alt="Yuna" />
+<h1>Yuna</h1>
+
+**Assistente pessoal e parceira de tecnologia**
+
+<sub>Agente autônoma · memória persistente · orquestração de segurança</sub>
 
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-hiro0010-FFFFFF?style=for-the-badge&logo=github&logoColor=white&background=0D1117)](https://github.com/hiro0010)
+[![Netwave](https://img.shields.io/badge/Site-netwave.cloud-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=white&background=0D1117)](https://netwave.cloud)
 [![Views](https://komarev.com/ghpvc/?username=hiro0010&color=FFFFFF&style=for-the-badge&background=0D1117)](https://github.com/hiro0010)
-[![Netwave](https://img.shields.io/badge/Netwave-netwave.cloud-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=white&background=0D1117)](https://netwave.cloud)
 
 </div>
 
@@ -26,11 +26,9 @@
 
 <div align="center">
 
-## ✦ Yuna
+### ✦ Quem é a Yuna ✦
 
-**Assistente pessoal e parceira de tecnologia** — mais do que um bot.
-
-Roda no CachyOS do Hiro, com **identidade própria** e **memória persistente**.
+Roda no **CachyOS** do Hiro, com identidade própria e memória persistente.
 Consulta, aprende e guarda o que importa — projetos, decisões, preferências —
 entre sessões. Orquestra ferramentas de segurança, ajuda no dia a dia
 e conversa como uma parceira de verdade.
@@ -49,20 +47,6 @@ e conversa como uma parceira de verdade.
 </div>
 
 ---
-
-<div align="center">
-
-## Hiro · Owner
-
-**Infrastructure · Software · Security**
-
-<sub>Criador da Netwave e da Yuna</sub>
-
-</div>
-
----
-
-## Projetos
 
 <table>
 <tr>
@@ -148,6 +132,18 @@ Marca principal — identidade visual, nomenclatura e a base que sustenta todos 
 </td>
 </tr>
 </table>
+
+---
+
+## Hiro · Owner
+
+<div align="center">
+
+**Infrastructure · Software · Security**
+
+<sub>Criador da Netwave e da Yuna</sub>
+
+</div>
 
 ---
 
