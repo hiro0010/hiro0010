@@ -1,32 +1,56 @@
 <div align="center">
 
-<img src="assets/yuna-welcome.png" alt="Yuna" width="150" />
+<img src="assets/yuna-logo.png" alt="Yuna" width="190" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1200&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=600&lines=Oi,+eu+sou+Hiro;Criador+do+Netwave" alt="Hiro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1400&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=620&lines=Yuna+·+assistente+de+Hiro;Agente+autônoma+·+memória+persistente" alt="Yuna" />
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=hiro0010&color=FFFFFF&style=for-the-badge&background=0D1117)](https://github.com/hiro0010)
-[![Followers](https://img.shields.io/github/followers/hiro0010?style=for-the-badge&logo=github&logoColor=white&color=FFFFFF&background=0D1117)](https://github.com/hiro0010?tab=followers)
+[![GitHub](https://img.shields.io/badge/GitHub-hiro0010-FFFFFF?style=for-the-badge&logo=github&logoColor=white&background=0D1117)](https://github.com/hiro0010)
+[![Views](https://komarev.com/ghpvc/?username=hiro0010&color=FFFFFF&style=for-the-badge&background=0D1117)](https://github.com/hiro0010)
 [![Netwave](https://img.shields.io/badge/Netwave-netwave.cloud-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=white&background=0D1117)](https://netwave.cloud)
 
 </div>
 
 ---
 
-## Sobre
-
 <div align="center">
 
-**Infrastructure · Software · Security**
+## ✦ Yuna
+
+**Assistente pessoal e parceira de tecnologia** — mais do que um bot.
+
+Roda no CachyOS do Hiro, com **identidade própria** e **memória persistente**.
+Consulta, aprende e guarda o que importa — projetos, decisões, preferências —
+entre sessões. Orquestra ferramentas de segurança, ajuda no dia a dia
+e conversa como uma parceira de verdade.
+
+<br/>
+
+<img src="https://img.shields.io/badge/Type-Autonomous%20Agent-FFFFFF?style=flat-square&logo=openai&logoColor=white&background=0D1117" alt="Agent" />
+<img src="https://img.shields.io/badge/Memory-Persistent%20Vault-FFFFFF?style=flat-square&logo=obsidian&logoColor=white&background=0D1117" alt="Memory" />
+<img src="https://img.shields.io/badge/Role-Security%20Orchestration-FFFFFF?style=flat-square&logo=hackaday&logoColor=white&background=0D1117" alt="Security" />
+<img src="https://img.shields.io/badge/Shell-CachyOS-FFFFFF?style=flat-square&logo=archlinux&logoColor=white&background=0D1117" alt="CachyOS" />
+
+<br/>
+
+<sub>*Ela não substitui o código — ela dá vida ao sistema.*</sub>
 
 </div>
 
-Crio projetos de infraestrutura, software e segurança sob a marca **Netwave** — plataformas de controle, clients de performance, proteção e engines proprietárias.
+---
 
-Meu dia a dia roda num **CachyOS** próprio, com stack moderna, arquitetura limpa e uma assistente de IA (**Yuna**) no fluxo, do desenvolvimento à orquestração de segurança.
+<div align="center">
+
+## Hiro · Owner
+
+**Infrastructure · Software · Security**
+
+<sub>Criador da Netwave e da Yuna</sub>
+
+</div>
 
 ---
 
@@ -38,7 +62,7 @@ Meu dia a dia roda num **CachyOS** próprio, com stack moderna, arquitetura limp
 
 ### 🌊 Netwave
 
-Marca principal — identidade visual, nomenclatura e a base que sustenta todos os projetos abaixo.
+Marca principal — identidade visual, nomenclatura e a base que sustenta todos os projetos ao lado.
 
 <sub>Identidade · Netwave ID · infra</sub>
 
@@ -151,33 +175,6 @@ Marca principal — identidade visual, nomenclatura e a base que sustenta todos 
 
 ---
 
-## Yuna
-
-<div align="center">
-
-<img src="assets/yuna-logo.png" alt="Yuna" width="120" />
-
-### ✦ Yuna ✦
-
-**Assistente pessoal e parceira de tecnologia**
-
-<br/>
-
-Roda no meu CachyOS, com identidade própria e memória persistente.
-Consulta, aprende e guarda o que importa — projetos, decisões, preferências —
-entre sessões. Orquestra ferramentas de segurança, ajuda no dia a dia
-e conversa como parceira de verdade.
-
-<br/>
-
-<img src="https://img.shields.io/badge/Agent-Autonomous-FFFFFF?style=flat-square&logo=openai&logoColor=white&background=0D1117" alt="Agent" />
-<img src="https://img.shields.io/badge/Memory-Persistent%20Vault-FFFFFF?style=flat-square&logo=obsidian&logoColor=white&background=0D1117" alt="Memory" />
-<img src="https://img.shields.io/badge/Role-Security%20Orchestration-FFFFFF?style=flat-square&logo=hackaday&logoColor=white&background=0D1117" alt="Security" />
-
-</div>
-
----
-
 ## Stats
 
 <div align="center">
@@ -197,6 +194,6 @@ e conversa como parceira de verdade.
 
 <br/>
 
-<sub>© Hiro — Netwave</sub>
+<sub>© Hiro — Owner · Netwave</sub>
 
 </div>
