@@ -123,8 +123,10 @@ Stack moderna, arquitetura limpa e um assistente de IA (**Yuna**) no fluxo desde
 <br/>
 
 ### 💚 Vitalis
-**Projeto Vitalis** — em desenvolvimento.
-<sub>Detalhes em breve</sub>
+**Plataforma de saúde e bem-estar** — app web focado em acompanhar rotinas, métricas corporais e hábitos.
+<sub>Interface moderna · dados locais · em desenvolvimento</sub>
+
+<img src="assets/vitalis.png" alt="Vitalis" width="100%" />
 
 </td>
 </tr>
