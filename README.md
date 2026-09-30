@@ -4,11 +4,9 @@
 
 <br/>
 
-<img src="assets/yuna-welcome.png" alt="Yuna" height="190" />
+<img src="assets/yuna-welcome.png" alt="Yuna" height="200" />
 
-<br/>
-
-<h1>Yuna</h1>
+# Yuna
 
 **Assistente pessoal e parceira de tecnologia**
 
@@ -19,6 +17,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-hiro0010-FFFFFF?style=for-the-badge&logo=github&logoColor=white&background=0D1117)](https://github.com/hiro0010)
 [![Netwave](https://img.shields.io/badge/Site-netwave.cloud-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=white&background=0D1117)](https://netwave.cloud)
 [![Views](https://komarev.com/ghpvc/?username=hiro0010&color=FFFFFF&style=for-the-badge&background=0D1117)](https://github.com/hiro0010)
+[![Followers](https://img.shields.io/github/followers/hiro0010?label=Followers&color=FFFFFF&style=for-the-badge&logo=github&background=0D1117)](https://github.com/hiro0010?tab=followers)
 
 </div>
 
@@ -48,86 +47,124 @@ e conversa como uma parceira de verdade.
 
 ---
 
+## 🌊 Projetos
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌊 Netwave
+### ⚡ <a href="https://github.com/hiro0010/axiom">Axiom</a>
 
-Marca principal — identidade visual, nomenclatura e a base que sustenta todos os projetos ao lado.
+**Plataforma de controle desktop** — núcleo com módulos instaláveis.
 
-<sub>Identidade · Netwave ID · infra</sub>
-
-<br/>
-
-### ⚡ Axiom
-
-**App de controle desktop** — Electron + React + TypeScript.
-
-<sub>Painel, plugins, temas, OAuth e services com entitlements</sub>
+<sub>Electron · React · TypeScript</sub>
 
 <img src="assets/axiom-painel.png" alt="Axiom" width="100%" />
 
 <br/>
 
-### 🌐 [Site Netwave](https://netwave.cloud)
+### 🌐 <a href="https://github.com/hiro0010/netwave-site">Site Netwave</a>
 
-**Vitrine oficial** — design, store, status e autenticação.
+**Vitrine oficial** — projetos, store e área de conta.
 
-<sub>HTML · CSS · JS · 14 páginas</sub>
+<sub>HTML · CSS · JS · nginx · Docker</sub>
 
 <img src="assets/site-netwave.png" alt="Site Netwave" width="100%" />
+
+<br/>
+
+### 💚 <a href="https://github.com/hiro0010/vitalis">Vitalis</a>
+
+**Resiliência digital** — o sistema imunológico da infraestrutura.
+
+<sub>Detecção de falhas · Fallback</sub>
+
+<img src="assets/vitalis.png" alt="Vitalis" width="100%" />
 
 </td>
 <td width="50%" valign="top">
 
-### 💚 Vitalis
+### 💻 <a href="https://github.com/hiro0010/netwaveos">NetwaveOS</a>
 
-**Plataforma de resiliência digital** — mapeie sua infraestrutura, detecte falhas e mantenha a operação em pé.
+**Sistema operacional Linux próprio** sobre a base CachyOS.
 
-<sub>Observabilidade · detecção · operação contínua</sub>
-
-<img src="assets/vitalis.png" alt="Vitalis" width="100%" />
+<sub>archiso · Hyprland · Quickshell</sub>
 
 <br/>
 
-### 💻 NetwaveOS
+### 🔧 <a href="https://github.com/hiro0010/axionengine">AxionEngine</a>
 
-**Desktop Linux próprio** — base CachyOS / Arch.
+**Motor nativo** — telemetria e otimização de hardware.
 
-<sub>ISO, shell, themes e update</sub>
-
-<br/>
-
-### 🔧 AxionEngine
-
-**Motor nativo** — C++20 / N-API para Windows.
-
-<sub>Telemetria usermode e otimização de hardware</sub>
+<sub>C++20 · CMake · N-API · WinAPI</sub>
 
 <br/>
 
-### 🛡️ Mochi-AC
+### 🛡️ <a href="https://github.com/hiro0010/mochi-ac">Mochi-AC</a>
 
-**Anti-cheat Minecraft** — Bukkit / Paper.
+**Anti-cheat de servidor** — detecção por simulação.
 
-<sub>Detecção de speed, timer e cheats de movimento</sub>
-
-<br/>
-
-### ⚔️ NYX Client
-
-**Mod Fabric PvP** — focado em performance.
-
-<sub>Client competitivo para Minecraft</sub>
+<sub>Java · Paper · PacketEvents</sub>
 
 <br/>
 
-### 🤖 Axiom Bot
+### ⚔️ <a href="https://github.com/hiro0010/nyx-client">NYX Client</a>
 
-**Bot de Discord** — Node + TypeScript + discord.js v14.
+**Mod de PvP e performance** — 38 módulos com ClickGUI.
 
-<sub>Prefixo <code>/</code> · comandos</sub>
+<sub>Java 21 · Fabric 1.21.1 · Gradle</sub>
+
+<br/>
+
+### 🤖 <a href="https://github.com/hiro0010/axiom-bot">Axiom Bot</a>
+
+**Bot de Discord** — 64 comandos com RBAC por cargo.
+
+<sub>Node · TypeScript · discord.js v14</sub>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧩 O que cada projeto faz
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[Axiom](https://github.com/hiro0010/axiom)** — App desktop com núcleo e
+módulos instaláveis (otimização, social, customização do Discord). Instalador
+enxuto; o wizard escolhe o que instalar no primeiro boot.
+
+**[Site Netwave](https://netwave.cloud)** — Vitrine pública com store,
+entitlements e login real pelo Netwave ID. Status honesto: mostra "não foi
+possível confirmar" quando a API falha.
+
+**[Vitalis](https://github.com/hiro0010/vitalis)** — Mapeia a infraestrutura
+inteira (servidores, clouds, DNS, APIs, bancos), identifica dependências e
+pontos de falha, detecta impacto e aciona contenção.
+
+</td>
+<td width="50%" valign="top">
+
+**[NetwaveOS](https://github.com/hiro0010/netwaveos)** — Distribuição Linux
+sobre CachyOS, com Hyprland, dashboard Quickshell, instalador Calamares e a
+Yuna embarcada em modo read-only.
+
+**[AxionEngine](https://github.com/hiro0010/axionengine)** — Addon C++20 que
+agrega 11 coletores de hardware num snapshot e expõe ao Axiom via N-API.
+
+**[Mochi-AC](https://github.com/hiro0010/mochi-ac)** — Anti-cheat que
+reconstrói o movimento esperado e compara com os pacotes recebidos. Roda em
+alert-only em produção.
+
+**[NYX Client](https://github.com/hiro0010/nyx-client)** — Mod Fabric com
+combate humanizado, HUD, ClickGUI e integração com Discord.
+
+**[Axiom Bot](https://github.com/hiro0010/axiom-bot)** — Bot da comunidade com
+hierarquia `USER → STAFF → MODERATOR → ADMIN → OWNER` e modlogs por tipo.
 
 </td>
 </tr>
@@ -141,7 +178,7 @@ Marca principal — identidade visual, nomenclatura e a base que sustenta todos 
 
 **Infrastructure · Software · Security**
 
-<sub>Criador da Netwave e da Yuna</sub>
+<sub>Criador da [Netwave](https://github.com/hiro0010/netwave) e da Yuna</sub>
 
 </div>
 
@@ -156,6 +193,7 @@ Marca principal — identidade visual, nomenclatura e a base que sustenta todos 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
 <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/TypeScript-Axiom%20Bot-3178C6?style=flat-square&logo=discord&logoColor=white" alt="Discord Bot" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
@@ -172,7 +210,13 @@ Marca principal — identidade visual, nomenclatura e a base que sustenta todos 
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
 <img src="https://img.shields.io/badge/CachyOS-1793D1?style=flat-square&logo=archlinux&logoColor=white" alt="CachyOS" />
+<img src="https://img.shields.io/badge/Arch-1793D1?style=flat-square&logo=archlinux&logoColor=white" alt="Arch" />
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="nginx" />
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB" />
+<img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" alt="CMake" />
+<img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" alt="Gradle" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 
 </div>
@@ -191,10 +235,19 @@ Marca principal — identidade visual, nomenclatura e a base que sustenta todos 
 
 ---
 
+## 📁 Repositórios
+
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-hiro0010-FFFFFF?style=for-the-badge&logo=github&logoColor=white&background=0D1117)](https://github.com/hiro0010)
-[![Netwave](https://img.shields.io/badge/Site-netwave.cloud-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=white&background=0D1117)](https://netwave.cloud)
+[![Netwave](https://img.shields.io/badge/Netwave-FFFFFF?style=flat-square&logo=googlechrome&logoColor=white&background=0D1117)](https://github.com/hiro0010/netwave)
+[![Axiom](https://img.shields.io/badge/Axiom-FFFFFF?style=flat-square&logo=electron&logoColor=white&background=0D1117)](https://github.com/hiro0010/axiom)
+[![Site](https://img.shields.io/badge/Site-FFFFFF?style=flat-square&logo=html5&logoColor=white&background=0D1117)](https://github.com/hiro0010/netwave-site)
+[![Vitalis](https://img.shields.io/badge/Vitalis-FFFFFF?style=flat-square&logo=activity&logoColor=white&background=0D1117)](https://github.com/hiro0010/vitalis)
+[![NetwaveOS](https://img.shields.io/badge/NetwaveOS-FFFFFF?style=flat-square&logo=linux&logoColor=black&background=0D1117)](https://github.com/hiro0010/netwaveos)
+[![AxionEngine](https://img.shields.io/badge/AxionEngine-FFFFFF?style=flat-square&logo=cplusplus&logoColor=white&background=0D1117)](https://github.com/hiro0010/axionengine)
+[![Mochi-AC](https://img.shields.io/badge/Mochi--AC-FFFFFF?style=flat-square&logo=java&logoColor=white&background=0D1117)](https://github.com/hiro0010/mochi-ac)
+[![NYX](https://img.shields.io/badge/NYX%20Client-FFFFFF?style=flat-square&logo=modrinth&logoColor=white&background=0D1117)](https://github.com/hiro0010/nyx-client)
+[![Axiom Bot](https://img.shields.io/badge/Axiom%20Bot-FFFFFF?style=flat-square&logo=discord&logoColor=white&background=0D1117)](https://github.com/hiro0010/axiom-bot)
 
 <br/>
 
