@@ -186,87 +186,41 @@ hierarquia `USER → STAFF → MODERATOR → ADMIN → OWNER` e modlogs por tipo
 
 ## Stack
 
-<sub>Linguagens</sub>
+**Linguagens**
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/C%2B%2B20-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++20" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
-<img src="https://img.shields.io/badge/Assembly-525252?style=flat-square&logo=assemblyscript&logoColor=white" alt="Assembly" />
-<img src="https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/C%2B%2B20-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++20" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" /> <img src="https://img.shields.io/badge/Assembly-525252?style=flat-square&logo=assemblyscript&logoColor=white" alt="Assembly" /> <img src="https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=mysql&logoColor=white" alt="SQL" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
 
-<sub>Plataforma</sub>
+**Plataforma**
 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/CachyOS-1793D1?style=flat-square&logo=archlinux&logoColor=white" alt="CachyOS" />
-<img src="https://img.shields.io/badge/Arch-1793D1?style=flat-square&logo=archlinux&logoColor=white" alt="Arch" />
-<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" /> <img src="https://img.shields.io/badge/CachyOS-1793D1?style=flat-square&logo=archlinux&logoColor=white" alt="CachyOS" /> <img src="https://img.shields.io/badge/Arch-1793D1?style=flat-square&logo=archlinux&logoColor=white" alt="Arch" /> <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
 
-<sub>Frontend</sub>
+**Frontend**
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
 
-<sub>Desktop</sub>
+**Desktop**
 
-<img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
-<img src="https://img.shields.io/badge/electron-builder-3694E2?style=flat-square&logo=electronbuilder&logoColor=white" alt="electron-builder" />
-<img src="https://img.shields.io/badge/Flatpak-4A90D9?style=flat-square&logo=flatpak&logoColor=white" alt="Flatpak" />
-<img src="https://img.shields.io/badge/NSIS-D64F9C?style=flat-square&logo=nsis&logoColor=white" alt="NSIS" />
+<img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron" /> <img src="https://img.shields.io/badge/electron-builder-3694E2?style=flat-square&logo=electronbuilder&logoColor=white" alt="electron-builder" /> <img src="https://img.shields.io/badge/Flatpak-4A90D9?style=flat-square&logo=flatpak&logoColor=white" alt="Flatpak" /> <img src="https://img.shields.io/badge/NSIS-D64F9C?style=flat-square&logo=nsis&logoColor=white" alt="NSIS" />
 
-<sub>Backend</sub>
+**Backend**
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/discord.js-5865F2?style=flat-square&logo=discord&logoColor=white" alt="discord.js" />
-<img src="https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="nginx" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB" />
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/discord.js-5865F2?style=flat-square&logo=discord&logoColor=white" alt="discord.js" /> <img src="https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="nginx" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB" /> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" /> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
 
-<sub>JVM / Minecraft</sub>
+**JVM / Minecraft**
 
-<img src="https://img.shields.io/badge/Java%2021-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 21" />
-<img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" alt="Gradle" />
-<img src="https://img.shields.io/badge/Paper-4A90D2?style=flat-square&logo=papermc&logoColor=white" alt="Paper" />
-<img src="https://img.shields.io/badge/Spigot-F7DF1E?style=flat-square&logo=spigotmc&logoColor=white" alt="Spigot" />
-<img src="https://img.shields.io/badge/PacketEvents-E8562A?style=flat-square&logo=netty&logoColor=white" alt="PacketEvents" />
-<img src="https://img.shields.io/badge/Fabric-B0BAC9?style=flat-square&logo=fabric&logoColor=black" alt="Fabric" />
-<img src="https://img.shields.io/badge/Sodium-4F86C6?style=flat-square&logo=sodium&logoColor=white" alt="Sodium" />
+<img src="https://img.shields.io/badge/Java%2021-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 21" /> <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" alt="Gradle" /> <img src="https://img.shields.io/badge/Paper-4A90D2?style=flat-square&logo=papermc&logoColor=white" alt="Paper" /> <img src="https://img.shields.io/badge/Spigot-F7DF1E?style=flat-square&logo=spigotmc&logoColor=white" alt="Spigot" /> <img src="https://img.shields.io/badge/PacketEvents-E8562A?style=flat-square&logo=netty&logoColor=white" alt="PacketEvents" /> <img src="https://img.shields.io/badge/Fabric-B0BAC9?style=flat-square&logo=fabric&logoColor=black" alt="Fabric" /> <img src="https://img.shields.io/badge/Sodium-4F86C6?style=flat-square&logo=sodium&logoColor=white" alt="Sodium" />
 
-<sub>Nativo</sub>
+**Nativo**
 
-<img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" alt="CMake" />
-<img src="https://img.shields.io/badge/N-API-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="N-API" />
-<img src="https://img.shields.io/badge/WinAPI-0078D6?style=flat-square&logo=windows&logoColor=white" alt="WinAPI" />
+<img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" alt="CMake" /> <img src="https://img.shields.io/badge/N-API-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="N-API" /> <img src="https://img.shields.io/badge/WinAPI-0078D6?style=flat-square&logo=windows&logoColor=white" alt="WinAPI" />
 
-<sub>SO / Desktop Linux</sub>
+**SO / Desktop Linux**
 
-<img src="https://img.shields.io/badge/archiso-1793D1?style=flat-square&logo=archlinux&logoColor=white" alt="archiso" />
-<img src="https://img.shields.io/badge/Hyprland-0F1117?style=flat-square&logo=hyprland&logoColor=white" alt="Hyprland" />
-<img src="https://img.shields.io/badge/Quickshell-21252B?style=flat-square&logo=quickshell&logoColor=white" alt="Quickshell" />
-<img src="https://img.shields.io/badge/QML-44A833?style=flat-square&logo=qt&logoColor=white" alt="QML" />
-<img src="https://img.shields.io/badge/Waybar-242C34?style=flat-square&logo=waybar&logoColor=white" alt="Waybar" />
-<img src="https://img.shields.io/badge/SwayNC-714B67?style=flat-square&logo=sway&logoColor=white" alt="SwayNC" />
-<img src="https://img.shields.io/badge/Kitty-C5C5C5?style=flat-square&logo=kitty&logoColor=white" alt="Kitty" />
-<img src="https://img.shields.io/badge/Wofi-3E7BBF?style=flat-square&logo=wofi&logoColor=white" alt="Wofi" />
-<img src="https://img.shields.io/badge/Calamares-0E7490?style=flat-square&logo=calamares&logoColor=white" alt="Calamares" />
-<img src="https://img.shields.io/badge/Plasma-1D99F3?style=flat-square&logo=kde&logoColor=white" alt="Plasma" />
-<img src="https://img.shields.io/badge/xorriso-0F1117?style=flat-square&logo=xorriso&logoColor=white" alt="xorriso" />
-<img src="https://img.shields.io/badge/QEMU-FF6600?style=flat-square&logo=qemu&logoColor=white" alt="QEMU" />
+<img src="https://img.shields.io/badge/archiso-1793D1?style=flat-square&logo=archlinux&logoColor=white" alt="archiso" /> <img src="https://img.shields.io/badge/Hyprland-0F1117?style=flat-square&logo=hyprland&logoColor=white" alt="Hyprland" /> <img src="https://img.shields.io/badge/Quickshell-21252B?style=flat-square&logo=quickshell&logoColor=white" alt="Quickshell" /> <img src="https://img.shields.io/badge/QML-44A833?style=flat-square&logo=qt&logoColor=white" alt="QML" /> <img src="https://img.shields.io/badge/Waybar-242C34?style=flat-square&logo=waybar&logoColor=white" alt="Waybar" /> <img src="https://img.shields.io/badge/SwayNC-714B67?style=flat-square&logo=sway&logoColor=white" alt="SwayNC" /> <img src="https://img.shields.io/badge/Kitty-C5C5C5?style=flat-square&logo=kitty&logoColor=white" alt="Kitty" /> <img src="https://img.shields.io/badge/Wofi-3E7BBF?style=flat-square&logo=wofi&logoColor=white" alt="Wofi" /> <img src="https://img.shields.io/badge/Calamares-0E7490?style=flat-square&logo=calamares&logoColor=white" alt="Calamares" /> <img src="https://img.shields.io/badge/Plasma-1D99F3?style=flat-square&logo=kde&logoColor=white" alt="Plasma" /> <img src="https://img.shields.io/badge/xorriso-0F1117?style=flat-square&logo=xorriso&logoColor=white" alt="xorriso" /> <img src="https://img.shields.io/badge/QEMU-FF6600?style=flat-square&logo=qemu&logoColor=white" alt="QEMU" />
 
-<sub>Ferramentas</sub>
+**Ferramentas**
 
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white" alt="Obsidian" />
-<img src="https://img.shields.io/badge/Paramiko-3776AB?style=flat-square&logo=python&logoColor=white" alt="Paramiko" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white" alt="Obsidian" /> <img src="https://img.shields.io/badge/Paramiko-3776AB?style=flat-square&logo=python&logoColor=white" alt="Paramiko" />
 
 ---
 
