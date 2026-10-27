@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="data:image/gif;base64,R0lGODdhAQABAPAAAP///ywAAAAAAQABAAACAAAA" alt="Yuna" width="100%" />
+<img src="assets/banner.gif" alt="Yuna" width="100%" />
 
 </div>
 
@@ -143,31 +143,6 @@ e conversa como uma parceira de verdade.
 <img src="assets/divider.svg" alt="" width="100%" />
 
 
-## Capturas
-
-<table>
-<tr>
-<td width="50%" valign="top"><a href="https://github.com/hiro0010/axiom"><img src="assets/axiom-painel.png" alt="Axiom" width="100%" /></a>
-<br/><sub>Painel de controle desktop</sub>
-</td>
-<td width="50%" valign="top"><a href="https://github.com/hiro0010/netwave-site"><img src="assets/site-netwave.png" alt="Site Netwave" width="100%" /></a>
-<br/><sub>netwave.cloud</sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://github.com/hiro0010/vitalis"><img src="assets/vitalis.png" alt="Vitalis" width="100%" /></a>
-<br/><sub>Mapa de dependências</sub>
-</td>
-<td width="50%" valign="top"><a href="https://github.com/hiro0010/nyx-client"><img src="assets/mine.png" alt="NYX Client" width="100%" /></a>
-<br/><sub>Servidor Minecraft</sub>
-</td>
-</tr>
-</table>
-
-
-<img src="assets/divider.svg" alt="" width="100%" />
-
-
 ## O que cada projeto faz
 
 <table>
@@ -194,6 +169,9 @@ e conversa como uma parceira de verdade.
 <b><a href="https://github.com/hiro0010/nyx-client">NYX CLIENT</a></b> — 38 módulos com ClickGUI, HUD custom e humanização de input para combate competitivo.
 
 <b><a href="https://github.com/hiro0010/axiom-bot">AXIOM BOT</a></b> — 64 comandos da comunidade com RBAC por cargo, cooldowns e modlogs por tipo de ação.
+
+<!-- Yuna Desktop -->
+<b><a href="https://github.com/hiro0010/yuna-desktop">Yuna Desktop</a></b> — Ambiente de trabalho integrado ao ecossistema Yuna, com interface gráfica, gerenciador de tarefas, persistência de estado e orquestração de ferramentas de segurança. Projeto de escritório em Python/PySide6, aberto a contribuições.
 
 </td>
 </tr>
@@ -255,7 +233,7 @@ e conversa como uma parceira de verdade.
 <br/>
 <img src="https://img.shields.io/badge/Java%2021-%20-B00000?style=flat-square&labelColor=0D0D0D&logo=openjdk&logoColor=white" alt="Java%2021" /> <img src="https://img.shields.io/badge/Paper-%20-B00000?style=flat-square&labelColor=0D0D0D&logo=spigotmc&logoColor=white" alt="Paper" /> <img src="https://img.shields.io/badge/Spigot-%20-B00000?style=flat-square&labelColor=0D0D0D&logo=spigotmc&logoColor=white" alt="Spigot" /> <img src="https://img.shields.io/badge/PacketEvents-%20-B00000?style=flat-square&labelColor=0D0D0D&logo=apache&logoColor=white" alt="PacketEvents" /> <img src="https://img.shields.io/badge/Fabric-%20-B00000?style=flat-square&labelColor=0D0D0D" alt="Fabric" /> <img src="https://img.shields.io/badge/Sodium-%20-B00000?style=flat-square&labelColor=0D0D0D&logo=modrinth&logoColor=white" alt="Sodium" />
 <br/>
-<img src="https://img.shields.io/badge/electron--builder-%20-B00000?style=flat-square&labelColor=0D0D0D&logo=electronbuilder&logoColor=white" alt="electron-builder" /> <img src="https://img.shields.io/badge/Flatpak-%20-B00000?style=flat-square&labelColor=0D0D0D&logo=flatpak&logoColor=white" alt="Flatpak" /> <img src="https://img.shields.io/badge/NSIS-%20-B00000?style=flat-square&labelColor=0D0D0D&logo=nsis&logoColor=white" alt="NSIS" /> <img src="https://img.shields.io/badge/WinAPI-%20-B00000?style=flat-square&labelColor=0D0D0D" alt="WinAPI" /> <img src="https://img.shields.io/badge/archiso-%20-B00000?style=flat-square&labelColor=0D0D0D&logo=archlinux&logoColor=white" alt="archiso" /> <img src="https://img.shields.io/badge/Hyprland-%20-B00000?style=flat-square&labelColor=0D0D0D&logo=hyprland&logoColor=white" alt="Hyprland" /> <img src="https://img.shields.io/badge/Quickshell-%20-B00000?style=flat-square&labelColor=0D0D0D&logo=qt&logoColor=white" alt="Quickshell" /> <img src="https://img.shields.io/badge/QML-%20-B00000?style=flat-square&labelColor=0D0D0D&logo=qt&logoColor=white" alt="QML" /> <img src="https://img.shields.io/badge/Waybar-%20-B00000?style=flat-square&labelColor=0D0D0D&logo=wayland&logoColor=white" alt="Waybar" /> <img src="https://img.shields.io/badge/SwayNC-%20-B00000?style=flat-square&labelColor=0D0D0D&logo=sway&logoColor=white" alt="SwayNC" /> <img src="https://img.shields.io/badge/Kitty-%20-B00000?style=flat-square&labelColor=0D0D0D" alt="Kitty" /> <img src="https://img.shields.io/badge/Wofi-%20-B00000?style=flat-square&labelColor=0D0D0D" alt="Wofi" /> <img src="https://img.shields.io/badge/Calamares-%20-B00000?style=flat-square&labelColor=0D0D0D&logo=archlinux&logoColor=white" alt="Calamares" /> <img src="https://img.shields.io/badge/Plasma-%20-B00000?style=flat-square&labelColor=0D0D0D&logo=kde&logoColor=white" alt="Plasma" /> <img src="https://img.shields.io/badge/xorriso-%20-B00000?style=flat-square&labelColor=0D0D0D&logo=archlinux&logoColor=white" alt="xorriso" /> <img src="https://img.shields.io/badge/QEMU-%20-B00000?style=flat-square&labelColor=0D0D0D&logo=qemu&logoColor=white" alt="QEMU" />
+<img src="https://img.shields.io/badge/electron--builder-%20-B00000?style=flat-square&labelColor=0D0D0D&logo=electronbuilder&logoColor=white" alt="electron-builder" /> <img src="https://img.shields.io/badge/Flatpak-%20-B00000?style=flat-square&labelColor=0D0D0D&logo=flatpak&logoColor=white" alt="Flatpak" /> <img src="https://img.shields.io/badge/NSIS-%20-B00000?style=flat-square&labelColor=0D0D0D&logo=nsis&logoColor=white" alt="NSIS" /> <img src="https://img.shields.io/badge/WinAPI-%20-B00000?style=flat-square&labelColor=0D0D0D" alt="WinAPI" /> <img src="https://img.shields.io/badge/archiso-%20-B00000?style=flat-square&labelColor=0D0D0D&logo=archlinux&logoColor=white" alt="archiso" /> <img src="https://img.shields.io/badge/Hyprland-%20-B00000?style=flat-square&labelColor=0D0D0D&logo=hyprland&logoColor=white" alt="Hyprland" /> <img src="https://img.shields.io/badge/Quickshell-%20-B00000?style=flat-square&labelColor=0D0D0D&logo=qt&logoColor=white" alt="Quickshell" /> <img src="https://img.shields.io/badge/QML-%20-B00000?style=flat-square&labelColor=0D0D0D&logo=qt&logoColor=white" alt="QML" /> <img src="https://img.shields.io/badge/Waybar-%20-B00000?style=flat-square&labelColor=0D0D0D&logo=wayland&logoColor=white" alt="Waybar" /> <img src="httpsimg.shields.io/badge/SwayNC-%20-B00000?style=flat-square&labelColor=0D0D0D&logo=sway&logoColor=white" alt="SwayNC" /> <img src="https://img.shields.io/badge/Kitty-%20-B00000?style=flat-square&labelColor=0D0D0D" alt="Kitty" /> <img src="https://img.shields.io/badge/Wofi-%20-B00000?style=flat-square&labelColor=0D0D0D" alt="Wofi" /> <img src="https://img.shields.io/badge/Calamares-%20-B00000?style=flat-square&labelColor=0D0D0D&logo=archlinux&logoColor=white" alt="Calamares" /> <img src="https://img.shields.io/badge/Plasma-%20-B00000?style=flat-square&labelColor=0D0D0D&logo=kde&logoColor=white" alt="Plasma" /> <img src="https://img.shields.io/badge/xorriso-%20-B00000?style=flat-square&labelColor=0D0D0D&logo=archlinux&logoColor=white" alt="xorriso" /> <img src="https://img.shields.io/badge/QEMU-%20-B00000?style=flat-square&labelColor=0D0D0D&logo=qemu&logoColor=white" alt="QEMU" />
 <br/>
 <img src="https://img.shields.io/badge/Git-%20-B00000?style=flat-square&labelColor=0D0D0D&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-%20-B00000?style=flat-square&labelColor=0D0D0D&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/Obsidian-%20-B00000?style=flat-square&labelColor=0D0D0D&logo=obsidian&logoColor=white" alt="Obsidian" /> <img src="https://img.shields.io/badge/Paramiko-%20-B00000?style=flat-square&labelColor=0D0D0D&logo=python&logoColor=white" alt="Paramiko" />
 
@@ -283,11 +261,6 @@ e conversa como uma parceira de verdade.
 </table>
 
 
-<img src="assets/divider.svg" alt="" width="100%" />
-
-
-
-
 ## Projetos (resumo)
 
 - **netwave** — Marca principal: identidade, nomenclatura e visão dos 9 projetos.
@@ -299,6 +272,7 @@ e conversa como uma parceira de verdade.
 - **mochi‑ac** — Anti‑cheat Minecraft: detecção por simulação.
 - **nyx‑client** — Mod PvP/performance Fabric: 38 módulos de otimização.
 - **axiom‑bot** — Bot Discord: 64 comandos, RBAC e modlogs.
+- **Yuna Desktop** — Ambiente de trabalho integrado ao ecossistema Yuna, com interface gráfica, gerenciador de tarefas, persistência de estado e orquestração de ferramentas de segurança. Projeto de escritório em Python/PySide6, aberto a contribuições.
 
 ## Etapa 2C.4.5 – Resolução de Gates (27/10/2026)
 
@@ -309,7 +283,7 @@ e conversa como uma parceira de verdade.
 
 <div align="center">
 
-[![Axiom](https://img.shields.io/badge/Axiom-axiom-B00000?style=flat-square&labelColor=0D0D0D&logo=github&logoColor=white)](https://github.com/hiro0010/axiom) [![Netwave](https://img.shields.io/badge/Netwave-netwave-B00000?style=flat-square&labelColor=0D0D0D&logo=github&logoColor=white)](https://github.com/hiro0010/netwave) [![Site](https://img.shields.io/badge/Site-netwave--site-B00000?style=flat-square&labelColor=0D0D0D&logo=github&logoColor=white)](https://github.com/hiro0010/netwave-site) [![Vitalis](https://img.shields.io/badge/Vitalis-vitalis-B00000?style=flat-square&labelColor=0D0D0D&logo=github&logoColor=white)](https://github.com/hiro0010/vitalis) [![NetwaveOS](https://img.shields.io/badge/NetwaveOS-netwaveos-B00000?style=flat-square&labelColor=0D0D0D&logo=github&logoColor=white)](https://github.com/hiro0010/netwaveos) [![AxionEngine](https://img.shields.io/badge/AxionEngine-axionengine-B00000?style=flat-square&labelColor=0D0D0D&logo=github&logoColor=white)](https://github.com/hiro0010/axionengine) [![Mochi-AC](https://img.shields.io/badge/Mochi--AC-mochi--ac-B00000?style=flat-square&labelColor=0D0D0D&logo=github&logoColor=white)](https://github.com/hiro0010/mochi-ac) [![NYX Client](https://img.shields.io/badge/NYX%20Client-nyx--client-B00000?style=flat-square&labelColor=0D0D0D&logo=github&logoColor=white)](https://github.com/hiro0010/nyx-client) [![Axiom Bot](https://img.shields.io/badge/Axiom%20Bot-axiom--bot-B00000?style=flat-square&labelColor=0D0D0D&logo=github&logoColor=white)](https://github.com/hiro0010/axiom-bot)
+[![Axiom](https://img.shields.io/badge/Axiom-axiom-B00000?style=flat-square&labelColor=0D0D0D&logo=github&logoColor=white)](https://github.com/hiro0010/axiom) [![Netwave](https://img.shields.io/badge/Netwave-netwave-B00000?style=flat-square&labelColor=0D0D0D&logo=github&logoColor=white)](https://github.com/hiro0010/netwave) [![Site](https://img.shields.io/badge/Site-netwave--site-B00000?style=flat-square&labelColor=0D0D0D&logo=github&logoColor=white)](https://github.com/hiro0010/netwave-site) [![Vitalis](https://img.shields.io/badge/Vitalis-vitalis-B00000?style=flat-square&labelColor=0D0D0D&logo=github&logoColor=white)](https://github.com/hiro0010/vitalis) [![NetwaveOS](https://img.shields.io/badge/NetwaveOS-netwaveos-B00000?style=flat-square&labelColor=0D0D0D&logo=github&logoColor=white)](https://github.com/hiro0010/netwaveos) [![AxionEngine](https://img.shields.io/badge/AxionEngine-axionengine-B00000?style=flat-square&labelColor=0D0D0D&logo=github&logoColor=white)](https://github.com/hiro0010/axionengine) [![Mochi-AC](https://img.shields.io/badge/Mochi--AC-mochi--ac-B00000?style=flat-square&labelColor=0D0D0D&logo=github&logoColor=white)](https://github.com/hiro0010/mochi-ac) [![NYX Client](https://img.shields.io/badge/NYX%20Client-nyx--client-B00000?style=flat-square&labelColor=0D0D0D&logo=github&logoColor=white)](https://github.com/hiro0010/nyx-client) [![Axiom Bot](https://img.shields.io/badge/Axiom%20Bot-axiom--bot-B00000?style=flat-square&labelColor=0D0D0D&logo=github&logoColor=white)](https://github.com/hiro0010/axiom-bot) [![Yuna Desktop](https://img.shields.io/badge/Yuna%20Desktop-yuna--desktop-B00000?style=flat-square&labelColor=0D0D0D&logo=github&logoColor=white)](https://github.com/hiro0010/yuna-desktop)
 
 
 </div>
