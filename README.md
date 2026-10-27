@@ -274,11 +274,6 @@ e conversa como uma parceira de verdade.
 - **axiom‑bot** — Bot Discord: 64 comandos, RBAC e modlogs.
 - **Yuna Desktop** — Ambiente de trabalho integrado ao ecossistema Yuna, com interface gráfica, gerenciador de tarefas, persistência de estado e orquestração de ferramentas de segurança. Projeto de escritório em Python/PySide6, aberto a contribuições.
 
-## Etapa 2C.4.5 – Resolução de Gates (27/10/2026)
-
-- **Gate A – Bloqueado**: sem modelo FREE com `source` + `verified_at` no catálogo local; catálogo de produção vazio; `opencode/space-bunny-free` tem custo >0 e status deprecated.
-- **Gate B – Bloqueado**: sem prova verificável de desabilitação de ferramentas. Código estático mostra que `{"*": false}` no payload de `tools` gera permissão `*` deny e o filtro `jd` remove todas as ferramentas; porém o transporte HTTP atual (`_validate_request`) rejeita qualquer `request.tools`. Uma correção mínima (adicionar `"tools": {"*": false}` ao JSON de mensagem) seria fundamentada pelo código estático, mas ainda depende da integração real do servidor; se não for aceita, o gate permanece bloqueado.
-
 ## Repositórios
 
 <div align="center">
