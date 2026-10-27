@@ -263,6 +263,8 @@ e conversa como uma parceira de verdade.
 
 ## Projetos (resumo)
 
+**Projetos destacadas do ecossistema Yuna:**
+
 - **netwave** — Marca principal: identidade, nomenclatura e visão dos 9 projetos.
 - **axiom** — App de controle desktop: núcleo + módulos instaláveis.
 - **netwave‑site** — Site oficial: vitrine, store, status e Netwave ID.
