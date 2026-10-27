@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/hiro0010/hiro0010/main/assets/banner.gif" alt="Yuna" width="100%" />
+<img src="assets/banner.gif" alt="Yuna" width="100%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/hiro0010/hiro0010/main/assets/hero.svg" alt="Yuna · Netwave" width="100%" />
+<img src="assets/hero.svg" alt="Yuna · Netwave" width="100%" />
 
 </div>
 
@@ -17,7 +17,7 @@
 </div>
 
 
-<img src="https://raw.githubusercontent.com/hiro0010/hiro0010/main/assets/divider.svg" alt="" width="100%" />
+<img src="assets/divider.svg" alt="" width="100%" />
 
 
 ## Quem é a Yuna
@@ -40,7 +40,7 @@ e conversa como uma parceira de verdade.
 </div>
 
 
-<img src="https://raw.githubusercontent.com/hiro0010/hiro0010/main/assets/divider.svg" alt="" width="100%" />
+<img src="assets/divider.svg" alt="" width="100%" />
 
 
 ## Projetos
@@ -140,7 +140,7 @@ e conversa como uma parceira de verdade.
 </table>
 
 
-<img src="https://raw.githubusercontent.com/hiro0010/hiro0010/main/assets/divider.svg" alt="" width="100%" />
+<img src="assets/divider.svg" alt="" width="100%" />
 
 
 ## Capturas
@@ -165,7 +165,7 @@ e conversa como uma parceira de verdade.
 </table>
 
 
-<img src="https://raw.githubusercontent.com/hiro0010/hiro0010/main/assets/divider.svg" alt="" width="100%" />
+<img src="assets/divider.svg" alt="" width="100%" />
 
 
 ## O que cada projeto faz
@@ -200,7 +200,7 @@ e conversa como uma parceira de verdade.
 </table>
 
 
-<img src="https://raw.githubusercontent.com/hiro0010/hiro0010/main/assets/divider.svg" alt="" width="100%" />
+<img src="assets/divider.svg" alt="" width="100%" />
 
 
 ## Hiro · Owner
@@ -217,7 +217,7 @@ e conversa como uma parceira de verdade.
 </div>
 
 
-<img src="https://raw.githubusercontent.com/hiro0010/hiro0010/main/assets/divider.svg" alt="" width="100%" />
+<img src="assets/divider.svg" alt="" width="100%" />
 
 
 ## Stack
@@ -264,7 +264,7 @@ e conversa como uma parceira de verdade.
 </table>
 
 
-<img src="https://raw.githubusercontent.com/hiro0010/hiro0010/main/assets/divider.svg" alt="" width="100%" />
+<img src="assets/divider.svg" alt="" width="100%" />
 
 
 ## Em números
@@ -283,7 +283,7 @@ e conversa como uma parceira de verdade.
 </table>
 
 
-<img src="https://raw.githubusercontent.com/hiro0010/hiro0010/main/assets/divider.svg" alt="" width="100%" />
+<img src="assets/divider.svg" alt="" width="100%" />
 
 
 
