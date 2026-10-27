@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.gif" alt="Yuna" width="100%" />
+<img src="data:image/gif;base64,R0lGODdhAQABAPAAAP///ywAAAAAAQABAAACAAAA" alt="Yuna" width="100%" />
 
 </div>
 
